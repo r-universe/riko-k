@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bayesanova"]
 	path = bayesanova
 	url = https://github.com/cran/bayesanova
-	shallow = true
-	registered = true
 [submodule "bayest"]
 	path = bayest
 	url = https://github.com/cran/bayest
-	shallow = true
-	registered = true
 [submodule "brada"]
 	path = brada
 	url = https://github.com/cran/brada
-	shallow = true
-	registered = true
 [submodule "fbst"]
 	path = fbst
 	url = https://github.com/cran/fbst
-	shallow = true
-	registered = true
