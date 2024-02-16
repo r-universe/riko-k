@@ -11,6 +11,3 @@
 [submodule "brada"]
 	path = brada
 	url = https://github.com/cran/brada
-[submodule "fbst"]
-	path = fbst
-	url = https://github.com/cran/fbst
